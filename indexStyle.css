@@ -12,7 +12,6 @@ nav {
     background-color: cadetblue;
     height: 100vh;
     float: left;
-    display:inline;
 }
 
 ul {
@@ -29,4 +28,5 @@ li a {
     border-radius: 20px;
     text-transform: uppercase;
     text-decoration: none;
+    display:inline;
 }
