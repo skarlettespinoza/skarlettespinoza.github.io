@@ -12,6 +12,7 @@ nav {
     background-color: cadetblue;
     height: 100vh;
     float: left;
+    display:inline;
 }
 
 ul {
