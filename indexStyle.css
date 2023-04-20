@@ -9,7 +9,7 @@ h2
     font-family: Arial;
 }
 nav {
-    background-color: cadetblue;
+    background-color: lightslategrey;
     height: 100vh;
     float: left;
 }
@@ -18,7 +18,6 @@ ul {
     list-style-type: none;
     margin-inline: 0;
     padding: 0;
-    display: inline-flex;
 }
 
 li a {
@@ -30,4 +29,14 @@ li a {
     text-transform: uppercase;
     text-decoration: none;
     display:inline;
+}
+
+#Introduction {
+    background-color: lightslategrey;
+    border: 5px solid cornflowerblue;
+    margin: 25px;
+    padding: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+    width: 250px;
+    font-family: Arial;
 }
