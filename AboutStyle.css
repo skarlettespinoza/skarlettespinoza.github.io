@@ -3,3 +3,27 @@
     text-align:center;
     font-family:Arial;
 }
+nav {
+    background-color: lightslategrey;
+    height: 100vh;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin-inline: 0;
+    padding: 0;
+}
+
+li a {
+    background-color: white;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 5px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+p{
+    font-size:xx-large;
+}
